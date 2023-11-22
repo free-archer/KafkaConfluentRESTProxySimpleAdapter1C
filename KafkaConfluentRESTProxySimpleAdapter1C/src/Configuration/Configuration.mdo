@@ -43,4 +43,5 @@
   </languages>
   <commonModules>CommonModule.Кафка</commonModules>
   <commonModules>CommonModule.КоннекторHTTP</commonModules>
+  <dataProcessors>DataProcessor.ОтправкаПолучение</dataProcessors>
 </mdclass:Configuration>

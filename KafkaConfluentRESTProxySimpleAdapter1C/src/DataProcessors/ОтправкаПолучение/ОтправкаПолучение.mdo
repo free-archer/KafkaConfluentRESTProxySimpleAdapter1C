@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="32a08312-7c4f-4719-acad-2aa9facc8514">
+  <producedTypes>
+    <objectType typeId="5633e03a-46ef-461f-bb7e-ff9e4c519688" valueTypeId="0f48a623-8b29-4431-bbb4-1273fa9a9ec9"/>
+    <managerType typeId="ff1b0bc6-ba77-4d5c-9848-9f3fe99a88eb" valueTypeId="e6f2a477-f4b1-4b1c-91d6-c8befbe0188c"/>
+  </producedTypes>
+  <name>ОтправкаПолучение</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отправка получение</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ОтправкаПолучение.Form.Форма</defaultForm>
+  <forms uuid="71839ce3-9e03-462a-a01d-a05fc0e8a3c7">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="3181731c-f31e-4d01-9b8b-fefafd9b4321">
+    <name>ФормаПример</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма пример</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <commands uuid="a3d6c0e4-2163-4ce7-99e5-c3ea2a7d364a">
+    <name>ТестKafka</name>
+    <synonym>
+      <key>ru</key>
+      <value>Тест kafka</value>
+    </synonym>
+    <group>NavigationPanelImportant</group>
+    <representation>Auto</representation>
+  </commands>
+  <commands uuid="f26739b5-9afc-429a-809d-24f6a5527c35">
+    <name>ПримерKafka</name>
+    <synonym>
+      <key>ru</key>
+      <value>Пример kafka</value>
+    </synonym>
+    <group>NavigationPanelImportant</group>
+    <representation>Auto</representation>
+  </commands>
+</mdclass:DataProcessor>
