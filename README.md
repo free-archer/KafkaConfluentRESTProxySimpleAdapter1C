@@ -1,3 +1,9 @@
+# В форке реализована обработка которой можно тестировать отправку и получение сообщений
+
+![image](https://github.com/free-archer/KafkaConfluentRESTProxySimpleAdapter1C/assets/36464371/58a40831-367d-4fde-a88e-b89169bea3c9)
+
+Первоисточник статья на ифостарт https://infostart.ru/1c/tools/1695767/
+
 [![Stars](https://img.shields.io/github/stars/huxuxuya/KafkaConfluentRESTProxyAdapter1C.svg?label=Github%20%E2%98%85&a)](https://github.com/huxuxuya/KafkaConfluentRESTProxyAdapter1C/stargazers)
 [![Release](https://img.shields.io/github/tag/huxuxuya/KafkaConfluentRESTProxyAdapter1C.svg?label=Last%20release&a)](https://github.com/huxuxuya/KafkaConfluentRESTProxyAdapter1C/releases)
 
