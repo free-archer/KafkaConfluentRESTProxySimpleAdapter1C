@@ -20,29 +20,11 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="3181731c-f31e-4d01-9b8b-fefafd9b4321">
-    <name>ФормаПример</name>
-    <synonym>
-      <key>ru</key>
-      <value>Форма пример</value>
-    </synonym>
-    <usePurposes>PersonalComputer</usePurposes>
-    <usePurposes>MobileDevice</usePurposes>
-  </forms>
   <commands uuid="a3d6c0e4-2163-4ce7-99e5-c3ea2a7d364a">
     <name>ТестKafka</name>
     <synonym>
       <key>ru</key>
       <value>Тест kafka</value>
-    </synonym>
-    <group>NavigationPanelImportant</group>
-    <representation>Auto</representation>
-  </commands>
-  <commands uuid="f26739b5-9afc-429a-809d-24f6a5527c35">
-    <name>ПримерKafka</name>
-    <synonym>
-      <key>ru</key>
-      <value>Пример kafka</value>
     </synonym>
     <group>NavigationPanelImportant</group>
     <representation>Auto</representation>
